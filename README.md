@@ -1,0 +1,1 @@
+Core for game codebreaker
